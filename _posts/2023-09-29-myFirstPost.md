@@ -8,7 +8,7 @@ author: Wannabexx
 
 toc: true
 comments: true
-typora-root-url: ../../tomstillcoding.github.io
+typora-root-url: ../../Wannabexx.github.io
 math: false
 mermaid: true
 
