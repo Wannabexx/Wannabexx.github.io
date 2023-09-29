@@ -25,5 +25,3 @@ document.getElementById('test')
 
 #### 测试一下
 
-😉😏
-
